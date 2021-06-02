@@ -11,9 +11,13 @@ System Design:
 ![image](https://user-images.githubusercontent.com/57378953/120518190-ecc86980-c396-11eb-8d41-a6f4781d0865.png)
 
 
-Sample mail send :
+Sample mail send :  
+
 ![image](https://user-images.githubusercontent.com/57378953/120518605-5c3e5900-c397-11eb-9f03-4293da504d41.png)
 
-Sample reply received:
+
+
+Sample reply received:  
+
 ![image](https://user-images.githubusercontent.com/57378953/120518724-7a0bbe00-c397-11eb-834a-320e5b5366b3.png)
 
